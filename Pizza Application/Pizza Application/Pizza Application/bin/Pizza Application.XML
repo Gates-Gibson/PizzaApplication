@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pizza Application</name>
+    </assembly>
+    <members>
+        <member name="M:Pizza_Application.App_Start.NinjectWebCommon.Start">
+            <summary>
+            Starts the application
+            </summary>
+        </member>
+        <member name="M:Pizza_Application.App_Start.NinjectWebCommon.Stop">
+            <summary>
+            Stops the application.
+            </summary>
+        </member>
+        <member name="M:Pizza_Application.App_Start.NinjectWebCommon.CreateKernel">
+            <summary>
+            Creates the kernel that will manage your application.
+            </summary>
+            <returns>The created kernel.</returns>
+        </member>
+        <member name="M:Pizza_Application.App_Start.NinjectWebCommon.RegisterServices(Ninject.IKernel)">
+            <summary>
+            Load your modules or register your services here!
+            </summary>
+            <param name="kernel">The kernel.</param>
+        </member>
+        <member name="M:Pizza_Application.Controllers.HomeController.Index(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="UserName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pizza_Application.Controllers.HomeController.Index(Pizza_Application.Models.HomeIndexViewModel)">
+            <summary>
+            validate form information and if it's correct move to redirect to About.cshtml to view all orders
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pizza_Application.Controllers.HomeController.About">
+            <summary>
+            Converts db info into the proper format to be displayed to the user
+            </summary>
+            <returns>the list orders</returns>
+        </member>
+        <member name="P:Pizza_Application.Models.Order.orderId">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

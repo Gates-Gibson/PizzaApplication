@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Pizza_Application.Models.Order>
+@{
+    ViewBag.Title = "Orders";
+}
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 60%;
+        }
+
+        td, th {
+            border: 1px solid;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<h2>@ViewBag.Message</h2>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Phone Number</th>
+        <th>Delivery Time</th>
+        <th>Pizzas</th>
+    </tr>
+    @foreach (var item in @Model.Reverse())
+    {
+        <tr>
+            <td>@item.name</td>
+            <td>@item.phoneNumber</td>
+            <td>@item.dateTime</td>
+            <td>@item.numOfPizzas</td>
+        </tr>
+    }
+</table>

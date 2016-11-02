@@ -1,0 +1,14 @@
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\PizzaOrderDatabase.mdf
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\PizzaOrderDatabase_log.ldf
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\Pizza Application.DataLayer.EntityFramwork.dll.config
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\Pizza Application.DataLayer.EntityFramwork.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\Pizza Application.DataLayer.EntityFramwork.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\EntityFramework.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\EntityFramework.SqlServer.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\EntityFramework.xml
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\EntityFramework.SqlServer.xml
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\obj\Debug\Pizza Application.DataLayer.EntityFramwork.csprojResolveAssemblyReference.cache
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\obj\Debug\Pizza Application.DataLayer.EntityFramwork.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\obj\Debug\Pizza Application.DataLayer.EntityFramwork.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\Pizza Application.DataLayer.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.EntityFramwork\bin\Debug\Pizza Application.DataLayer.pdb

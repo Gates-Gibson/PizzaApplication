@@ -1,0 +1,7 @@
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.ADO.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.ADO.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.csprojResolveAssemblyReference.cache
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.pdb
