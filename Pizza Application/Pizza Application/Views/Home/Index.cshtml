@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+    if (IsPost)
+    {
+        /*((HomeController)this.ViewContext.Controller).AddStringBuilder();
+        <% var homeController = ViewContext.Controller as HomeController; />
+        PizzaOrderDatabaseEntities db = new PizzaOrderDatabaseEntities();
+        
+        db.Database.SqlQuery<PizzaOrderDatabaseEntities>(string);
+        Order order = new Order();
+        order.orderId = 5;
+        order.name = Request.Form["UserName"];
+        order.phoneNumber = Request.Form["PhoneNumber"];
+        order.dateTime = Request.Form["Date"];
+        order.numOfPizzas = Convert.ToInt32(Request.Form["numOfPizza"]);
+        db.Orders.Add(order);*/
+    }
+}
+<div class="jumbotron">
+    <h1>Ace Of Spades Pizza</h1>
+    <p class="lead">Thank you for choosing Ace Of Spades Pizza! Please order our world famous "The One" pizza below.</p>
+</div>
+
+<form method="post">
+    <fieldset>
+        <legend>Order Details</legend>
+        <div class="row">
+            <div class="col-md-4">
+                Full Name:
+            </div>
+            <input type="text" name="UserName" size="50" maxlength="50" id="UserName" value="" />
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                Phone Number:
+            </div>
+            <input type="text" name="PhoneNumber" size="10" maxlength="10" id="PhoneNumber" value="" />
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                When would you like it delivered?
+            </div>
+            <input type="datetime" name="Date" id="Date" value="" />
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                Number of pizzas:
+            </div>
+            <input type="text" name="numOfPizza" size="2" maxlength="2" id="numOfPizza" value="" />
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <p><input type="submit" name="buttonSubmit" value="Add Order" /></p>
+            </div>
+        </div>
+    </fieldset>
+</form>
