@@ -120,14 +120,14 @@ namespace Pizza_Application.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Orders";
-            List<Models.Order> orders = new List<Models.Order>();
+            List<Models.OrderViewModel> orders = new List<Models.OrderViewModel>();
             foreach(var item in _orderRepository.GetAll())
             {
-                Models.Order x = new Models.Order();
-                x.name = item.Name;
-                x.phoneNumber = item.PhoneNumber;
-                x.dateTime = item.Date;
-                x.numOfPizzas = Convert.ToInt32(item.NumOfPizzas);
+                Models.OrderViewModel x = new Models.OrderViewModel();
+                x.Name = item.Name;
+                x.PhoneNumber = item.PhoneNumber;
+                x.DateTime = item.Date;
+                x.NumOfPizzas = Convert.ToInt32(item.NumOfPizzas);
                 orders.Add(x); 
             }
             return View(orders);

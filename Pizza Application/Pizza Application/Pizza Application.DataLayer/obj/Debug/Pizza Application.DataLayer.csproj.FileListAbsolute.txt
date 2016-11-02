@@ -8,3 +8,8 @@ G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.csprojResolveAssemblyReference.cache
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.dll
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer\bin\Debug\Pizza Application.DataLayer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer\bin\Debug\Pizza Application.DataLayer.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.csprojResolveAssemblyReference.cache
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer\obj\Debug\Pizza Application.DataLayer.pdb
