@@ -1,0 +1,18 @@
+C:\temp\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.Tests.dll
+C:\temp\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.Tests.pdb
+C:\temp\Pizza Application\Pizza Application.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.dll
+C:\temp\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.pdb
+C:\temp\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.csprojResolveAssemblyReference.cache
+C:\temp\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.dll
+C:\temp\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.Tests.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.Tests.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.csprojResolveAssemblyReference.cache
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\obj\Debug\Pizza Application.Tests.pdb
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.ADO.dll
+G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.Tests\bin\Debug\Pizza Application.DataLayer.ADO.pdb

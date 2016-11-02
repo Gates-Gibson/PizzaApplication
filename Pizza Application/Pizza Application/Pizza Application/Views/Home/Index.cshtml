@@ -1,0 +1,99 @@
+﻿@model Pizza_Application.Models.HomeIndexViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+    <div class="jumbotron" style="background-color: lightgray">
+        <h1>Ace Of Spades Pizza</h1>
+        <p class="lead">Thank you for choosing Ace Of Spades Pizza! Please order our world famous "The One" pizza below.</p>
+    </div>
+
+
+<form method="post">
+    <fieldset>
+        <legend>Order Details</legend>
+        @if (ViewData.ContainsKey("EmptyFieldValidationError"))
+        {
+            <div>
+                <label style="color: red">@ViewData["EmptyFieldValidationError"]</label>
+            </div>
+        }
+
+        @if (ViewData.ContainsKey("UserNameValidationError"))
+        {
+            <div>
+                <label style="color: red">@ViewData["UserNameValidationError"]</label>
+            </div>
+        }
+        <div class="row">
+            <div class="col-xs-4" >
+                Full Name:
+            </div>
+            <div class="col-md-2" style="padding-right:50px">
+                <input type="text" name="UserName" maxlength="50" id="UserName" value="@Model.UserName" />
+            </div>
+        </div>
+
+        @if (ViewData.ContainsKey("PhoneValidationError"))
+        {
+            <div>
+                <label style="color: red">@ViewData["PhoneValidationError"]</label>
+            </div>
+        }
+        <div class="row">
+                <div class="col-xs-4" >
+                    Phone Number:
+                </div>
+                <div class="col-md-2" style="padding-right:50px">
+                    <input type="text" name="PhoneNumber" maxlength="12" id="PhoneNumber" value="@Model.PhoneNumber" />
+                </div>
+        </div>
+
+        @if (ViewData.ContainsKey("ValidationError"))
+        {
+            <div>
+                <label style="color: red">@ViewData["ValidationError"]</label>
+            </div>
+        }
+        
+        <div class="row">
+            <div class="col-xs-4">
+                Date:
+            </div>
+            <div class="col-md-2" style="padding-right:50px">
+                <input type="date" name="Date" id="Date" value="@Model.Date" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-4">
+                Time:
+            </div>
+            <div class="col-md-2" style="padding-right:50px">
+                <input type="time" name="Time" id="Time" value="@Model.Time" />
+            </div>
+        </div>
+
+        @if (ViewData.ContainsKey("NumOfPizzaValidationError"))
+        {
+            <div>
+                <label style="color: red">@ViewData["NumOfPizzaValidationError"]</label>
+            </div>
+        }
+        <div class="row">
+            <div class="col-xs-4">
+                Number of pizzas:
+            </div>
+            <div class="col-md-2" style="padding-right:50px">
+                <input type="number" name="NumOfPizzas" min="1" max="99" maxlength="2" id="numOfPizza" value="@Model.NumOfPizzas" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4"style="padding-top:10px">
+                <p><input type="submit" name="buttonSubmit" value="Add Order" /></p>
+            </div>
+        </div>
+    </fieldset>
+</form>
