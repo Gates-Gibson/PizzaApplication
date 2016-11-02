@@ -265,3 +265,102 @@ G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application\bin\Ninject.Web.Common.xml
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application\bin\Ninject.Web.Mvc.xml
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application\bin\Pizza Application.XML
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\ApplicationInsights.config
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\csc.exe
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\vbc.exe
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\PizzaOrderDatabase.mdf
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\PizzaOrderDatabase_log.ldf
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.dll.config
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.XML
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Antlr3.Runtime.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\EntityFramework.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\EntityFramework.SqlServer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.Web.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.ApplicationInsights.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Newtonsoft.Json.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.Web.Common.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.Web.Mvc.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Owin.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.ADO.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.EntityFramwork.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Helpers.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Mvc.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Optimization.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Razor.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\WebActivatorEx.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\WebGrease.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.ADO.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.EntityFramwork.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Pizza Application.DataLayer.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.Web.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.ApplicationInsights.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.Web.Common.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Ninject.Web.Mvc.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Helpers.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Mvc.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Optimization.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.Razor.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Antlr3.Runtime.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Newtonsoft.Json.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\EntityFramework.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\EntityFramework.SqlServer.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\obj\Debug\Pizza Application.csprojResolveAssemblyReference.cache
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\obj\Debug\Pizza Application.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application\obj\Debug\Pizza Application.pdb

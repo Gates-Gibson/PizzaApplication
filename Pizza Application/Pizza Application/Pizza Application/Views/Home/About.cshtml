@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Pizza_Application.Models.Order>
+﻿@model IEnumerable<Pizza_Application.Models.OrderViewModel>
 @{
     ViewBag.Title = "Orders";
 }
@@ -33,10 +33,10 @@
     @foreach (var item in @Model.Reverse())
     {
         <tr>
-            <td>@item.name</td>
-            <td>@item.phoneNumber</td>
-            <td>@item.dateTime</td>
-            <td>@item.numOfPizzas</td>
+            <td>@item.Name</td>
+            <td>@item.PhoneNumber</td>
+            <td>@item.DateTime</td>
+            <td>@item.NumOfPizzas</td>
         </tr>
     }
 </table>

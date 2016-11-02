@@ -5,3 +5,10 @@ G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.csprojResolveAssemblyReference.cache
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.dll
 G:\Take Home Projects\Pizza Application - After Jerrod Session\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.ADO.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.ADO.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\bin\Debug\Pizza Application.DataLayer.pdb
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.csprojResolveAssemblyReference.cache
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.dll
+D:\GitHub\PizzaApplication\Pizza Application\Pizza Application\Pizza Application.DataLayer.ADO\obj\Debug\Pizza Application.DataLayer.ADO.pdb
